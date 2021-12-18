@@ -1,1 +1,3 @@
-file1.txt can modified in fierst commit in master branch
+hello world
+hi
+gm
